@@ -1,6 +1,8 @@
 # exam_fluter_managetable
 
-A new Flutter project.
+# How to run
+  - flutter pub get
+  - flutter run
 
 ## Getting Started
 
